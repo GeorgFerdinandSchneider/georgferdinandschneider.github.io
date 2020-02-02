@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr.-Ing. Georg Ferdinand Schneider"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Georg Ferdinand Schneider"
+description              : &description "Data Architect at Schaeffler Technologies in the Data Architecture & Engineering Group. Main research interests include data-driven engineering of cyber-physical systems, knowledge representation techniques in the engineering domain and engineering of automation systems. Received a B.Sc., M.Sc. & M.Sc. in mechanical, energy engineering and economics from RWTH Aachen University and a PhD from faculty of mechanical engineering Karlsruhe Institute of Technology. Proficient in ontology-based knowledge engineering and representation using Semantic Web Technologies. Research interest in the field of the digital transformation of building and industrial automation industries. Proven experience in modelling and simulation of complex technical systems using Modelica. Sound understanding of the scientific method with over 15 peer-reviewed journal and conference publications. Part of the scientific committee at international workshops and conferences. Member of the VDI and IEEE. Co-Chair of the W3C Linked Building Data Community Group."
+url                      : https://georgferdinandschneider.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "georgferdinandschneider.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr.-Ing. Georg Ferdinand Schneider Account"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Data Architect at Schaeffler"
+  location         : "Nuremberg, Germany"
+  employer         : "Schaeffler Technologies AG & Co. KG"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=OKBT6DAAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Georg_Schneider3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,23 +96,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "GeorgFerdinandSchneider"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/georgferdinandschneider/"
+  orcid            : "https://orcid.org/0000-0002-2033-859X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
-  xing             :
+  xing             : "https://www.xing.com/profile/GeorgFerdinand_Schneider"
   youtube          :
   wikipedia        :
 
