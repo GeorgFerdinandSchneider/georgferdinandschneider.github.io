@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Mechanical Engineering, Karlruhe Institute of Technology, 2019
+* M.Sc. in Management, Business and Economics, RWTH Aachen University, 2014
+* M.Sc. in Energy Engineering, RWTH Aachen University, 2013
+* B.Sc. in Mechanical Engineering, RWTH Aachen University, 2007
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2020 - present: Data Architect
+  * Schaeffler Technologies AG and Co. KG, Herzogenaurach, Germany
+
+* Feb 2015 - Okt 2019: Research Associate
+  * Fraunhofer Institute for Building Physics IBP, Nuremberg, Germany
+  * Building Systems Solutions Group
+  * Development of Knowledge-Based Technical Building Management Services
+  * Linked Building Data and Building Information Modeling (BIM)
+  * Ontology-based Knowledge Representation
+  * Integration of heterogeneous engineering data using Semantic Web Technologies
+  
+* Dec 2017 - May 2019: Research Associate
+  * Technische Hochschule Nürnberg, Nürnberg, Germany
+  * Systemsintegration Group
+  * Project management in the development actions related to the European H2020 project "Modelling Optimization of Energy Efficiency in Buildings for Urban Sustainability (MOEEBIUS)".
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ontology-based Knowledge Representation
+* Ontology-based data integration using semantic web technologies
+* Digital transformation of the Building and Industrial Automation Domain
+* Scientific research methodology
+* Modelling and Simulation of Cyber-Physical Systems using Modelica
+* Communication of results both orally and written
 
 Publications
 ======
@@ -56,4 +65,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-chair of the W3C Linked Building Data Community Group
+* Member IEEE
+* Member VDI
