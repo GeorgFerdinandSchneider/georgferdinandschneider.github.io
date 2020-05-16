@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr.-Ing. Georg Ferdinand Schneider"
 title_separator          : "-"
 name                     : &name "Georg Ferdinand Schneider"
-description              : &description "Data Architect at Schaeffler Technologies in the Data Architecture & Engineering Group. Main research interests include data-driven engineering of cyber-physical systems, knowledge representation techniques in the engineering domain and engineering of automation systems. Received a B.Sc., M.Sc. & M.Sc. in mechanical, energy engineering and economics from RWTH Aachen University and a PhD from faculty of mechanical engineering Karlsruhe Institute of Technology. Proficient in ontology-based knowledge engineering and representation using Semantic Web Technologies. Research interest in the field of the digital transformation of building and industrial automation industries. Proven experience in modelling and simulation of complex technical systems using Modelica. Sound understanding of the scientific method with over 15 peer-reviewed journal and conference publications. Part of the scientific committee at international workshops and conferences. Member of the VDI and IEEE. Co-Chair of the W3C Linked Building Data Community Group."
+description              : &description "Data Architect at Schaeffler Technologies in the Data Architecture & Engineering Group. Main research interests include data-driven engineering of cyber-physical systems, knowledge representation techniques in the engineering domain and engineering of automation systems. Received a B.Sc., M.Sc. & M.Sc. in mechanical, energy engineering and economics from RWTH Aachen University, Germany and a PhD from faculty of mechanical engineering Karlsruhe Institute of Technology, Germany. Proficient in ontology-based knowledge engineering and representation using Semantic Web Technologies. Research interest in the field of the digital transformation of building and industrial automation industries. Proven experience in modelling and simulation of complex technical systems using Modelica. Sound understanding of the scientific method with over 15 peer-reviewed journal and conference publications. Part of the scientific committee at international workshops and conferences. Member of the VDI and IEEE. Co-Chair of the W3C Linked Building Data Community Group."
 url                      : https://georgferdinandschneider.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "georgferdinandschneider.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/georgferdinandschneider/"
+  linkedin         : "georgferdinandschneider"
   orcid            : "https://orcid.org/0000-0002-2033-859X"
   pinterest        :
   soundcloud       :
@@ -112,7 +112,7 @@ author:
   twitter          :
   vine             :
   weibo            :
-  xing             : "https://www.xing.com/profile/GeorgFerdinand_Schneider"
+  xing             : "GeorgFerdinand_Schneider"
   youtube          :
   wikipedia        :
 
