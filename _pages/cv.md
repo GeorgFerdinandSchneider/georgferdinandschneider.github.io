@@ -12,19 +12,23 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Mechanical Engineering, Karlruhe Institute of Technology, 2019
-* M.Sc. in Management, Business and Economics, RWTH Aachen University, 2014
-* M.Sc. in Energy Engineering, RWTH Aachen University, 2013
-* B.Sc. in Mechanical Engineering, RWTH Aachen University, 2007
+* Ph.D in Mechanical Engineering, [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/), Germany, 2019
+* M.Sc. in Management, Business and Economics, [RWTH Aachen University](https://www.rwth-aachen.de), 2014
+* M.Sc. in Energy Engineering, [RWTH Aachen University](https://www.rwth-aachen.de), 2013
+* B.Sc. in Mechanical Engineering, [RWTH Aachen University](https://www.rwth-aachen.de), 2007
 
 Work experience
 ======
 
 * Jan 2020 - present: Data Architect
-  * Schaeffler Technologies AG and Co. KG, Herzogenaurach, Germany
+  * [Schaeffler Technologies AG and Co. KG](https://www.schaeffler.com/), Herzogenaurach, Germany
 
-* Feb 2015 - Okt 2019: Research Associate
-  * Fraunhofer Institute for Building Physics IBP, Nuremberg, Germany
+* Nov 2016 - Feb 2019: External PhD Student
+  * [Faculty of Mechanical Engineering, Karlsruhe Institute of Technology (KIT)](https://www.kit.edu), Karlsruhe, Germany
+  * PhD topics 'Semantic Modelling of Control Logic in Automation Systems – Knowledge-based Support for the Engineering and Operation of Control Logic in Building and Industrial Automation Systems' under the supervision of [Prof. Jivka Ovtcharova](https://www.imi.kit.edu)
+
+* Feb 2015 - Oct 2019: Research Associate
+  * [Fraunhofer Institute for Building Physics IBP](https://www.ibp.fraunhofer.de), Nuremberg, Germany
   * Building Systems Solutions Group
   * Development of Knowledge-Based Technical Building Management Services
   * Linked Building Data and Building Information Modeling (BIM)
@@ -33,7 +37,7 @@ Work experience
   
 * Dec 2017 - May 2019: Research Associate
   * Technische Hochschule Nürnberg, Nürnberg, Germany
-  * Systemsintegration Group
+  * Systems Integration Group
   * Project management in the development actions related to the European H2020 project "Modelling Optimization of Energy Efficiency in Buildings for Urban Sustainability (MOEEBIUS)".
   
 Skills
