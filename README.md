@@ -1,6 +1,6 @@
 # License and copyright
 
-This is a Github Pages website of [Georg Ferdinand Schneider](https://www.github.com/georgferdinandschneider). Note, the content of this website is subject to copyright restrictions as stated below and my not be used without the explicit granted permission by the author. The software code of the forked academicpages repository stays under MIT license as stated below.
+This is a Github Pages website of [Georg Ferdinand Schneider](https://www.github.com/georgferdinandschneider). Note, the content of this website is subject to copyright restrictions as stated below and may not be used without the explicit granted permission by the author, as long as not stated differently. The software code of the forked academicpages repository is not affected by this and stays under MIT license as stated below.
 
 ## Limitation of liability for internal content
 
